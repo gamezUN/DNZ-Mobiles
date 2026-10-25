@@ -1,0 +1,21 @@
+DNZ MOBILES — INSTRUCCIONES DE USO
+
+1. Extrae el ZIP completo sin cambiar la estructura de carpetas.
+2. Abre Visual Studio Code > Archivo > Abrir carpeta > DNZ-Mobiles.
+3. Abre index.html en el navegador, o instala la extensión Live Server y pulsa Go Live.
+4. Navega Inicio > Fundas > Elegir iPhone > Elegir producto.
+5. Los botones abren WhatsApp con un mensaje preescrito al 81 2904 1916.
+6. Para cambiar precios, colores, modelos y textos: edita js/catalogo.js.
+7. Para cambiar colores, diseño y espaciado: edita css/estilos.css.
+8. Para cambiar el número de WhatsApp: edita la constante WA en js/tienda.js y los enlaces wa.me en los HTML.
+9. Para actualizar fotos: reemplaza los archivos .webp dentro de imagenes, conservando los nombres.
+10. Publicar en GitHub Pages: crea un repositorio, sube TODO el contenido de DNZ-Mobiles a la raíz, ve a Settings > Pages > Deploy from branch > main / (root).
+
+NOTAS IMPORTANTES
+- Precios tomados del PDF proporcionado. No hay promociones inventadas.
+- Modelos y colores sujetos a confirmación por WhatsApp; no se promete stock.
+- La compatibilidad de las micas de varias marcas se resume en algunas tarjetas: consulta el PDF para el listado detallado de modelos.
+- Las fotografías se extrajeron del PDF original y no son fotografías de producto individuales de alta resolución.
+- El PDF no garantiza precios de envío ni zonas de cobertura. Confirmar por WhatsApp.
+- El logo de portada extraído del PDF está en imagenes/logo-portada.png. La cabecera y el pie de página utilizan el logo original extraído del PDF (imagenes/logo.png).
+- El diseño usa Google Fonts; si no hay internet se muestran tipografías de respaldo.
